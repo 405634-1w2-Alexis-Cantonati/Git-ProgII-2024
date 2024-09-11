@@ -1,0 +1,6 @@
+@Actividad_Práctica_02__405634_Alexis_Cantonati__HostAddress = http://localhost:5224
+
+GET {{Actividad_Práctica_02__405634_Alexis_Cantonati__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
