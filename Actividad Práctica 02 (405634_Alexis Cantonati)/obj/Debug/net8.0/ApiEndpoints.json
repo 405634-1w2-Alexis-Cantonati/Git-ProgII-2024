@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Actividad_Pr\u00E1ctica_02__405634_Alexis_Cantonati_.Controllers.ArticulosController",
+    "Method": "Get",
+    "RelativePath": "api/Articulos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad_Pr\u00E1ctica_02__405634_Alexis_Cantonati_.Controllers.ArticulosController",
+    "Method": "Delete",
+    "RelativePath": "api/Articulos",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad_Pr\u00E1ctica_02__405634_Alexis_Cantonati_.Controllers.ArticulosController",
+    "Method": "Create",
+    "RelativePath": "api/Articulos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "art",
+        "Type": "Back.Models.Article",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad_Pr\u00E1ctica_02__405634_Alexis_Cantonati_.Controllers.ArticulosController",
+    "Method": "Update",
+    "RelativePath": "api/Articulos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "art",
+        "Type": "Back.Models.Article",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
