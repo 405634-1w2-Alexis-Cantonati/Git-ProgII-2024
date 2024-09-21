@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 02 (405634_alexis cantonati )\\back\\data\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 02 (405634_alexis cantonati )\\back\\data\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 02 (405634_alexis cantonati )\\back\\implementacion\\aplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parametros.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\Parametros.cs",
+              "RelativeDocumentMoniker": "..\\Back\\Data\\Parametros.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\Parametros.cs",
+              "RelativeToolTip": "..\\Back\\Data\\Parametros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:38:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelperDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\HelperDB.cs",
+              "RelativeDocumentMoniker": "..\\Back\\Data\\HelperDB.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\HelperDB.cs",
+              "RelativeToolTip": "..\\Back\\Data\\HelperDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:38:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Implementacion\\Aplication.cs",
+              "RelativeDocumentMoniker": "..\\Back\\Implementacion\\Aplication.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Implementacion\\Aplication.cs",
+              "RelativeToolTip": "..\\Back\\Implementacion\\Aplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:38:52.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
