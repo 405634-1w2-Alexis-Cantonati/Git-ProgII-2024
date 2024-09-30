@@ -9,9 +9,15 @@ namespace Back.Implementacion
 {
     public interface IAplication
     {
-        bool Create(Article oArticulo);
-        bool Delete(int id);
-        List<Article> GetAll();
-        bool Update(Article article);
+        bool CreateArticle(Article oArticulo);
+        bool DeleteArticle(int id);
+        List<Article> GetAllArticle();
+        bool UpdateArticle(Article article);
+
+
+        bool CreateFactura(Factura oFactura);
+        bool DeleteFactura(int id);
+        List<Factura> GetFactura(DateTime? fecha, int? formaPago);
+        bool UpdateFactura(Factura oFactura);
     }
 }

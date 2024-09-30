@@ -1,15 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Api\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 02 (405634_alexis cantonati )\\back\\data\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6533681C-BF9E-4500-A720-D9041D62530B}|Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati).csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 03 (405634_alexis cantonati )\\api\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6533681C-BF9E-4500-A720-D9041D62530B}|Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati).csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 02 (405634_alexis cantonati )\\back\\data\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 03 (405634_alexis cantonati )\\back\\implementacion\\aplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 02 (405634_alexis cantonati )\\back\\implementacion\\aplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 03 (405634_alexis cantonati )\\back\\implementacion\\iaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6533681C-BF9E-4500-A720-D9041D62530B}|Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati).csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 03 (405634_alexis cantonati )\\api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6533681C-BF9E-4500-A720-D9041D62530B}|Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati).csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AB03DF-78A2-4987-8F27-CCED8A078E36}|..\\Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 03 (405634_alexis cantonati )\\back\\data\\helperdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,46 +27,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Parametros.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\Parametros.cs",
-              "RelativeDocumentMoniker": "..\\Back\\Data\\Parametros.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\Parametros.cs",
-              "RelativeToolTip": "..\\Back\\Data\\Parametros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Api\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Api\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:38:56.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T00:34:06.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HelperDB.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\HelperDB.cs",
-              "RelativeDocumentMoniker": "..\\Back\\Data\\HelperDB.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Data\\HelperDB.cs",
-              "RelativeToolTip": "..\\Back\\Data\\HelperDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Api\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Api\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:38:55.919Z",
+              "WhenOpened": "2024-09-22T00:32:54.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Aplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Implementacion\\Aplication.cs",
-              "RelativeDocumentMoniker": "..\\Back\\Implementacion\\Aplication.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 02 (405634_Alexis Cantonati )\\Back\\Implementacion\\Aplication.cs",
-              "RelativeToolTip": "..\\Back\\Implementacion\\Aplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IAplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Back\\Implementacion\\IAplication.cs",
+              "RelativeDocumentMoniker": "..\\Back\\Implementacion\\IAplication.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Back\\Implementacion\\IAplication.cs",
+              "RelativeToolTip": "..\\Back\\Implementacion\\IAplication.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:38:52.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T00:14:48.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelperDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Back\\Data\\HelperDB.cs",
+              "RelativeDocumentMoniker": "..\\Back\\Data\\HelperDB.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Back\\Data\\HelperDB.cs",
+              "RelativeToolTip": "..\\Back\\Data\\HelperDB.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:10:09.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Back\\Implementacion\\Aplication.cs",
+              "RelativeDocumentMoniker": "..\\Back\\Implementacion\\Aplication.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 03 (405634_Alexis Cantonati )\\Back\\Implementacion\\Aplication.cs",
+              "RelativeToolTip": "..\\Back\\Implementacion\\Aplication.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:10:08.785Z"
             }
           ]
         }

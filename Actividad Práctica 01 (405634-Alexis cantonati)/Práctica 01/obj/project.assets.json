@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Actividad Práctica 01(405634-Alexis cantonati)\\Práctica 01\\Práctica 01.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 01 (405634-Alexis cantonati)\\Práctica 01\\Práctica 01.csproj",
       "projectName": "Práctica 01",
-      "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Actividad Práctica 01(405634-Alexis cantonati)\\Práctica 01\\Práctica 01.csproj",
+      "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 01 (405634-Alexis cantonati)\\Práctica 01\\Práctica 01.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Actividad Práctica 01(405634-Alexis cantonati)\\Práctica 01\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 01 (405634-Alexis cantonati)\\Práctica 01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

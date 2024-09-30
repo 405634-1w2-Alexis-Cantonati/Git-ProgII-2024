@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj": {}
+    "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj": {
+    "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj",
         "projectName": "Back",
-        "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj",
+        "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

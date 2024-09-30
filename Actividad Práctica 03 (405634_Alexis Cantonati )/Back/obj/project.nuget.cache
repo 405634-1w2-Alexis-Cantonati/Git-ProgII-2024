@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kt0MtoHAaPM=",
+  "dgSpecHash": "qRhjc2co74s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

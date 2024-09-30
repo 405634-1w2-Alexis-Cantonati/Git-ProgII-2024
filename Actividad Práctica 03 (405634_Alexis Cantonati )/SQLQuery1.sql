@@ -138,7 +138,19 @@ join articulos a on a.id_articulo = d.id_articulo
 ORDER BY f.nro_factura
 END
 
-exec SP_TRAER_FACTURAS
+GO
+
+CREATE PROCEDURE SP_TRAER_FACTURA_PARAM
+@fecha datetime = null,
+@forma_pago int = null
+AS
+BEGIN
+SELECT *
+FROM facturas
+WHERE (@fecha is null or fecha = @fecha) and
+(@forma_pago is null or forma_pago = @forma_pago)
+END
+
 GO
 
 CREATE PROCEDURE SP_TRAER_ARTICULOS
@@ -164,6 +176,20 @@ SELECT * FROM formas_pago
 END
 
 exec SP_BORRAR_FACTURA @id = 1
+
+GO
+
+CREATE PROCEDURE SP_EDITAR_FACTURA
+@id int,
+@fecha datetime,
+@forma_pago int,
+@cliente varchar(80)
+AS
+BEGIN
+UPDATE facturas 
+SET fecha = @fecha,forma_pago = @forma_pago, cliente = @cliente
+WHERE nro_factura = @id
+END
 
 GO
 

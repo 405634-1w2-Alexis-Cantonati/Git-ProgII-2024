@@ -910,11 +910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Api\\Actividad Práctica 02 (405634_Alexis Cantonati).csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Api\\Actividad Práctica 02 (405634_Alexis Cantonati).csproj",
       "projectName": "Actividad Práctica 02 (405634_Alexis Cantonati)",
-      "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Api\\Actividad Práctica 02 (405634_Alexis Cantonati).csproj",
+      "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Api\\Actividad Práctica 02 (405634_Alexis Cantonati).csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Api\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -932,8 +932,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 02 (405634_Alexis Cantonati )\\Back\\Back.csproj"
+            "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Práctica 03 (405634_Alexis Cantonati )\\Back\\Back.csproj"
             }
           }
         }
