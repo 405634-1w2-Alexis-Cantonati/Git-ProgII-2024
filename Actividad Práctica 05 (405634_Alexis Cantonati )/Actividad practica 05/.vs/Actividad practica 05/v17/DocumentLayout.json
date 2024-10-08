@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{959A122E-5FB4-4755-A187-AC0F60E57927}|WebApi\\WebApi.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 05 (405634_alexis cantonati )\\actividad practica 05\\webapi\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959A122E-5FB4-4755-A187-AC0F60E57927}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959A122E-5FB4-4755-A187-AC0F60E57927}|WebApi\\WebApi.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 05 (405634_alexis cantonati )\\actividad practica 05\\webapi\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959A122E-5FB4-4755-A187-AC0F60E57927}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959A122E-5FB4-4755-A187-AC0F60E57927}|WebApi\\WebApi.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 05 (405634_alexis cantonati )\\actividad practica 05\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959A122E-5FB4-4755-A187-AC0F60E57927}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B64059-DBF5-4563-851A-5051D0436192}|Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 05 (405634_alexis cantonati )\\actividad practica 05\\back\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B64059-DBF5-4563-851A-5051D0436192}|Back\\Back.csproj|solutionrelative:back\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B64059-DBF5-4563-851A-5051D0436192}|Back\\Back.csproj|c:\\users\\administrador\\onedrive\\escritorio\\git-progii-2024\\git-progii-2024\\actividad pr\u00E1ctica 05 (405634_alexis cantonati )\\actividad practica 05\\back\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B64059-DBF5-4563-851A-5051D0436192}|Back\\Back.csproj|solutionrelative:back\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\Back\\Data\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "Back\\Data\\Repositories\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\Back\\Data\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "Back\\Data\\Repositories\\ServicioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:07:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\WebApi\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\WebApi\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:06:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\WebApi\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\WebApi\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:06:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:05:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\Back\\Data\\Repositories\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "Back\\Data\\Repositories\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Git-ProgII-2024\\Git-ProgII-2024\\Actividad Pr\u00E1ctica 05 (405634_Alexis Cantonati )\\Actividad practica 05\\Back\\Data\\Repositories\\IServicioRepository.cs",
+              "RelativeToolTip": "Back\\Data\\Repositories\\IServicioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:07:15.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
