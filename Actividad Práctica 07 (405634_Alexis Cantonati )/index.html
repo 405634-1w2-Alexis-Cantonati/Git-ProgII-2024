@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/style.css">
+  
+</head>
+<body>
+    <main>
+        <div class="div">
+            <img class="image" src="images/descargar.png" alt="user">
+            <p>usuario</p>
+
+            <select name="menu" id="menu" onchange="showSection(this.value)">
+                <option value="" selected disabled>Elija una opcion</option>
+                <option value="dashboard">Inicio</option>
+                <option value="consultar">Consultar servicios</option>
+                <option value="nuevo">Nuevo servicio</option>
+            </select>
+
+            
+
+        </div>
+        <section id="dashboard" class="dashboard">
+            <p>DASHBOARD</p>
+            <p>Total de turnos por cliente:</p>
+
+            <table >
+                <thead>
+                    <tr>
+                        <th>cliente</th>
+                        <th>Total de turnos</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+
+        </section>
+        <section id="consultar" class="consultar">
+            <p style="font-size: 2rem;">Turnos:</p>
+
+            <table >
+                <thead >
+                    <tr>
+                        <th>id</th>
+                        <th>fecha</th>
+                        <th>hora</th>
+                        <th>cliente</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+            
+        </section>
+        <section id="nuevo" class="nuevo" style="display:none;">
+            <h2>Cargar Nuevo Turno</h2>
+            <form id="formTurno" onsubmit="registrarTurno(event)">
+                <label for="id">ID:</label>
+                <input type="text" id="id" required><br>
+                <label for="fecha">Fecha:</label>
+                <input type="date" id="fecha" required><br>
+                <label for="hora">Hora:</label>
+                <input type="time" id="hora" required><br>
+                <label for="cliente">Cliente:</label>
+                <select id="cliente" required>
+                    <option value="">Seleccione un cliente</option>
+                    <option value="Cliente A">Cliente A</option>
+                    <option value="Cliente B">Cliente B</option>
+                    <option value="Cliente C">Cliente C</option>
+                </select><br>
+                <button type="submit">Registrar Turno</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+@copyright2024
+    </footer>
+    <script src="js/back.js"></script>   
+</body>
+</html>
